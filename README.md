@@ -1,9 +1,7 @@
 # Employee Performance Analysis 👨‍💼📊
 ## INX Future Inc.
 
-**PROJECT SUMMARY:**
-
-### Business Case & Goal of Project: 
+### Business Case & Goal of Project:
 Predict employee performance rating based on given dataset features.
 
 ### 🎯 Project Insights:
