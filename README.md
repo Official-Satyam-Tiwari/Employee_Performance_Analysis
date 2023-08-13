@@ -2,7 +2,9 @@
 ## INX Future Inc.
 
 **PROJECT SUMMARY:**
-Business Case & Goal of Project: Predict employee performance rating based on given dataset features.
+
+### Business Case & Goal of Project: 
+Predict employee performance rating based on given dataset features.
 
 ### 🎯 Project Insights:
 - Department wise performances 📊
