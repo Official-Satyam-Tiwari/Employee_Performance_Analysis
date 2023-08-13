@@ -44,5 +44,3 @@ Business Case & Goal of Project: Predict employee performance rating based on gi
 The project utilized Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, Scipy, and Sklearn. 🐍
 
 For a detailed overview, refer to [Project Report](link_to_your_project_report).
-
-![Project Overview](link_to_project_overview_image)
